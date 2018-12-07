@@ -6,7 +6,7 @@
 
 ## Binary Search Tree(BST Sort):
 ### Resources:
-* [Binary Search Tree1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort/)
+* [Binary Search Tree1](https://www.youtube.com/watch?v=9Jry5-82I68)
 * [Binary Search Tree2](https://vimeo.com/203204585)
 * [Binary Search Tree3](https://www.youtube.com/watch?v=zm83jPHZ-jA)
 ### Practice:
@@ -47,7 +47,6 @@
 ### Practice:
 * [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses)
 * [05_test_your_solution_here(1)](https://leetcode.com/problems/symmetric-tree/)
-)
 * [05_test_your_solution_here(2)](https://leetcode.com/problems/minimum-depth-of-binary-tree/ )
 
 ## Depth-First Search(DFS):
